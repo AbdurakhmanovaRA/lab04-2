@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558887031 source:e:\regina\МЭИ 1 курс\РПОСУ\lab4-1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<locale.h>
+
